@@ -173,7 +173,7 @@ The application runs on:
 http://localhost:8080
 ```
 
-5. Test the APIs
+### 5. Test the APIs
 
 Use **Postman** to test the Student and Task REST APIs.
 
@@ -183,7 +183,7 @@ A Postman collection is included in the repository:
 Student-Task-Manager.postman_collection.json
 ```
 
-Future Enhancements
+## Future Enhancements
 
 * User authentication and authorization
 * Task search and pagination
